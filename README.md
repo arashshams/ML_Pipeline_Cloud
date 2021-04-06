@@ -20,7 +20,7 @@ This project includes four milestones as described below:
 
 # Report
 
-The report for **Milestone 1**: "Tackling big data on a laptop" can be found in a notebook [here](https://github.com/UBC-MDS/dsci_525_group12/tree/readme/notebooks).
+The report for **Milestone 1**: "Tackling big data on a laptop" can be found in a notebook [here](https://github.com/UBC-MDS/dsci_525_group12/tree/main/notebooks).
 
 # Dependencies
 
