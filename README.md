@@ -1,6 +1,4 @@
-# DSCI_525_group12
-
-### UBC MDS Web and Cloud Computing group project
+# ML Pipeline Cloud Computing
 
 # About
 
