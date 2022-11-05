@@ -1,4 +1,4 @@
-# ML Pipeline Cloud Computing
+# Ensemble ML Cloud Computing
 
 # About
 
